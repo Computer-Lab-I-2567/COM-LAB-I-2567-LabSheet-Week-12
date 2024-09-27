@@ -5,3 +5,6 @@
 
 ## 2. Branching in git
 ![alt text](image-2.png)
+
+## 3. Merging in Git
+![alt text](image-3.png)
