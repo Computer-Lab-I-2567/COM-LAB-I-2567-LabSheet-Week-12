@@ -1,5 +1,5 @@
-#level 1
+# level 1
 
-##1.Introduction to grid commit
+## 1.Introduction to grid commit
 
 ![alt text](image-1.png)
