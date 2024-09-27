@@ -1,6 +1,9 @@
 
-#level1
+# level1
 
-##level1 . intro to git commit
+## level1 . intro to git commit
 
 ![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
