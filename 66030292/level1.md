@@ -10,3 +10,6 @@
 
 ## 3. Merging in git
 ![alt text](image-2.png)
+
+## 4. Rebase introduction
+![alt text](image-3.png)
