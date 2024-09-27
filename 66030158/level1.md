@@ -7,3 +7,7 @@
 ## 2. Branching in Git
 
 ![alt text](<Screenshot 2024-09-27 110923.png>)
+
+## 3.Merging in Git
+
+![alt text](image.png)
