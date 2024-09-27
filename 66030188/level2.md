@@ -12,4 +12,6 @@
 
 ![alt text](image-6.png)
 
-## 3.Reversing Changes in Git
+## 4.Reversing Changes in Git
+
+![alt text](image-7.png)
