@@ -5,3 +5,7 @@
 
 ## 2. Brunching in git
 ![alt text](image-1.png)
+
+## 3. Merging in git
+![alt text](image-3.png)
+
