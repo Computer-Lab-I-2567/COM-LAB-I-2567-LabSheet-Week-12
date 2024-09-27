@@ -5,3 +5,6 @@
 
 ## 2. Relative Refs (^)
 ![alt text](image-7.png)
+
+## 3. Relative Refs #2 (~)
+![alt text](image-8.png)
