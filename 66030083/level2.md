@@ -10,3 +10,7 @@
 ## 2.3 git branch main
 
 ![alt text](image-7.png)
+
+## 2.4 git reset revest 
+
+![alt text](image-8.png)
