@@ -1,5 +1,9 @@
 # level 2
 
-## Detach yo' HEAD
+## 1.Detach yo' HEAD
 
 ![alt text](image-3.png)
+
+## 2.Relative Refs (^)
+
+![alt text](image-4.png)
