@@ -8,5 +8,3 @@
 
 ![alt text](image-1.png)
 
-
-## 3. Margin
