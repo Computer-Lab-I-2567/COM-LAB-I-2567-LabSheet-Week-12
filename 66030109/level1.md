@@ -10,7 +10,7 @@
 
 ## 3. Merging in git
 
+![alt text](image-3.png)
 
-
-## 2. Branching in git
+## 4: Rebase Introduction
 
