@@ -13,3 +13,7 @@
 
 ## 4. Git Tags
 ![alt text](image-16.png)
+
+
+## 5. Git Describe
+![alt text](image-17.png)
