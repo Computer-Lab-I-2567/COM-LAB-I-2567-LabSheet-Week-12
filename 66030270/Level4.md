@@ -4,3 +4,6 @@
 
 ## Juggling Commits
 ![alt text](image-15.png)
+
+## Juggling Commits#2
+![alt text](image-16.png)
