@@ -6,3 +6,6 @@
 ## 2.Juggling Commits
 ![alt text](image-12.png)
 
+## 3.Juggling Commits #2
+![alt text](image-13.png)
+
