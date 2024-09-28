@@ -4,7 +4,7 @@
 ![alt text](image-11.png)
 
 ## 2.Juggling Commits
-![alt text](image-12.png)
+![alt text](image-17.png)
 
 ## 3.Juggling Commits #2
 ![alt text](image-16.png)
