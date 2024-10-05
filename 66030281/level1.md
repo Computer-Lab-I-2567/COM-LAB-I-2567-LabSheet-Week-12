@@ -11,3 +11,4 @@
 ![alt text](image-2.png)
 
 ## 4. Rebase Introduction
+![alt text](image-3.png)
