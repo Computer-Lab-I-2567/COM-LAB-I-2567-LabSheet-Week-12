@@ -5,9 +5,12 @@
 
 ## 2.Juggling Commits
 ![alt text](image-11.png)
-## 3.Juggling Commits #2
+
+## 3.Juggling Commits 
 ![alt text](image-12.png)
+
 ## 4.Git Tags
 ![alt text](image-14.png)
+
 ## 5.Git Describe
 ![alt text](image-13.png)
