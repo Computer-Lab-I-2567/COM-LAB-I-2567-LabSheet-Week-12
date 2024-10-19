@@ -1,4 +1,4 @@
-# Level 1
+# Level 1 Introduction Sequence
 
 ## 1. Introduction to git commit 
 ![alt text](image.png)
