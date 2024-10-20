@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/42df9e82-bdcb-4894-9f5f-a6818f5f4c59)
 
 ## 4.3 Juggling Commits #2
-![image](https://github.com/user-attachments/assets/ffd3f4da-236d-4fbc-b697-e28873611203)
+![image](https://github.com/user-attachments/assets/5bc325a6-28c3-4873-b23a-dc39478e2f5c)
 
 ## 4.4 Git Tags
 ![image](https://github.com/user-attachments/assets/7414d4c7-6a2a-4b2c-a44c-72b0154e80ef)
