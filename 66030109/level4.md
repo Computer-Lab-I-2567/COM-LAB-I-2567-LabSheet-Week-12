@@ -7,7 +7,7 @@ Level 4 A mixed Beg
 
 4.2
 
-![สกรีนช็อต 2024-10-22 225305](https://github.com/user-attachments/assets/f1616e4a-341d-42cf-b95d-f283e534293c)
+![สกรีนช็อต 2024-10-22 225315](https://github.com/user-attachments/assets/29052fa7-f3f9-4782-aee3-9c058dd86ed3)
 
 
 4.3
@@ -17,8 +17,7 @@ Level 4 A mixed Beg
 
 4.4
 
-
-![สกรีนช็อต 2024-10-22 225315](https://github.com/user-attachments/assets/29052fa7-f3f9-4782-aee3-9c058dd86ed3)
+![สกรีนช็อต 2024-10-22 225253](https://github.com/user-attachments/assets/03b67d75-908d-4706-8e56-47305b10d9ca)
 
 
 4.5
