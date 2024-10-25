@@ -2,7 +2,7 @@
 
 ## 1. Introduction to git commit
 
-![alt text](image.png)
+![alt text](image.png) 
 
 ## 2. Branching in git
 
