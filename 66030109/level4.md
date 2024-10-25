@@ -6,7 +6,7 @@ Level 4 A mixed Beg
 
 4.2
 
-![4 2](https://github.com/user-attachments/assets/343302d0-75a6-4cfe-b1f9-7c0f70c3f07c)
+![4 2](https://github.com/user-attachments/assets/682b85fa-6f54-4220-9086-5ee67a60d22c)
 
 4.3
 
@@ -14,7 +14,7 @@ Level 4 A mixed Beg
 
 4.4
 
-![4 4](https://github.com/user-attachments/assets/71e45065-ce39-4889-8ad1-4253916ab67b)
+![4 4](https://github.com/user-attachments/assets/ee4afac8-5ba1-4a83-b350-41c1e73da0d3)
 
 4.5
 
