@@ -8,3 +8,6 @@
 
 ## 3.Juggling Commits #2
 ![alt text](image-12.png)
+
+## 4.Git Tags
+![alt text](image-13.png)
