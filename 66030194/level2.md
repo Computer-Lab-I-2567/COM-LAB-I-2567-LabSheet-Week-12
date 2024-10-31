@@ -11,3 +11,7 @@
 ## 3. Relative Refs #2 (~)
 
 ![alt text](image-8.png)
+
+## 4. Reversing Changes in Git
+
+![alt text](image-10.png)
