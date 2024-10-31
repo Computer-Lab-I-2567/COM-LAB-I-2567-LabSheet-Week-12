@@ -5,3 +5,7 @@
 ## 2. Multiple parents
 
 ![alt text](image-21.png)
+
+## 3. Branch Spaghetti
+
+![alt text](image-22.png)
